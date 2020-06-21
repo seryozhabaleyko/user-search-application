@@ -2,8 +2,6 @@
 
 ![](https://github.com/seryozhabaleyko/user-search-application/blob/master/githubSearch1.jpg?raw=true)
 
-![](https://github.com/seryozhabaleyko/user-search-application/blob/master/githubSearch2.jpg?raw=true)
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -20,3 +18,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+<br>
+
+![](https://github.com/seryozhabaleyko/user-search-application/blob/master/githubSearch2.jpg?raw=true)
