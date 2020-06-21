@@ -1,8 +1,8 @@
 {
-  "name": "github-user-search-application",
+  "name": "user-search-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seryozhabaleyko.github.io/github-user-search-application/",
+  "homepage": "https://github.com/seryozhabaleyko/user-search-application/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
