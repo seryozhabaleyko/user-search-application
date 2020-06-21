@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b9fdb2a9a09bc3673662eb0044f1f46",
+    "revision": "b313f3ff3ed713d75573dd78e7fbac55",
     "url": "/seryozhabaleyko/user-search-application/index.html"
   },
   {
-    "revision": "ad86b6915b9c4b98ff95",
+    "revision": "84631e216c3427bb373a",
     "url": "/seryozhabaleyko/user-search-application/static/css/2.7f9cf1a0.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seryozhabaleyko/user-search-application/static/css/main.d5276753.chunk.css"
   },
   {
-    "revision": "ad86b6915b9c4b98ff95",
-    "url": "/seryozhabaleyko/user-search-application/static/js/2.0378927c.chunk.js"
+    "revision": "84631e216c3427bb373a",
+    "url": "/seryozhabaleyko/user-search-application/static/js/2.e3a33b64.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/seryozhabaleyko/user-search-application/static/js/2.0378927c.chunk.js.LICENSE.txt"
+    "url": "/seryozhabaleyko/user-search-application/static/js/2.e3a33b64.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0c0985f1c63a838e04e2",
